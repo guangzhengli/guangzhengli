@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm guangzhengli</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guangzhengli&label=Profile%20views&color=0e75b6&style=flat" alt="guangzhengli" /> </p>
 - 🔭 I’m currently working on [hugo-ladder](https://github.com/guangzhengli/hugo-theme-ladder)
 
 - 🌱 I’m currently learning **Serverless**
@@ -28,9 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guangzhengli&show_icons=true&locale=en" alt="guangzhengli" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guangzhengli&" alt="guangzhengli" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guangzhengli&label=Profile%20views&color=0e75b6&style=flat" alt="guangzhengli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guangzhengli" alt="guangzhengli" /></a> </p>
