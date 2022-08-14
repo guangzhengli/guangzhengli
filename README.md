@@ -16,6 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何 10 分钟快速搭建你自己的独立博客](https://guangzhengli.com/zh/blog/how-to-deploy-your-own-independent-blog-site-in-10min/)
+- [如何 30 分钟搭建一套完整独立博客](https://guangzhengli.com/zh/blog/how-to-add-comments-and-analytics-to-blog-site-in-30min/)
+- [how to deploy your own independent blog site in 10min](https://guangzhengli.com/blog/how-to-deploy-your-own-independent-blog-site-in-10min/)
+- [Archives](https://guangzhengli.com/zh/archives/)
+- [Blog](https://guangzhengli.com/zh/blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
