@@ -15,4 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://guangzhengli.com/zh/index.xml,https://guangzhengli.com/index.xml"
