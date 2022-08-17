@@ -16,11 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [如何零成本给博客集成 umami 统计功能](https://guangzhengli.com/zh/blog/how-to-integrate-umami-for-free-to-blog-site/)
+- [如何零成本给博客集成 umami 数据统计分析功能](https://guangzhengli.com/zh/blog/how-to-integrate-umami-for-free-to-blog-site/)
+- [How to integrate umami to your website for free](https://guangzhengli.com/blog/how-to-integrate-umami-for-free-to-blog-site/)
+- [How to create your blog by hugo ladder in 30min](https://guangzhengli.com/blog/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
 - [如何 10 分钟快速搭建你自己的独立博客](https://guangzhengli.com/zh/blog/how-to-create-your-blog-for-free-in-10min/)
-- [如何 30 分钟搭建一套完整独立博客](https://guangzhengli.com/zh/blog/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
-- [Archives](https://guangzhengli.com/zh/archives/)
-- [Blog](https://guangzhengli.com/zh/blog/)
+- [How to create your blog for free in 10min](https://guangzhengli.com/blog/how-to-create-your-blog-for-free-in-10min/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
