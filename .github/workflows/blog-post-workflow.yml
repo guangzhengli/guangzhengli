@@ -16,4 +16,4 @@ jobs:
         with:
           max_post_count: "5"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-          feed_list: "https://guangzhengli.com/zh/index.xml,https://guangzhengli.com/index.xml"
+          feed_list: "https://guangzhengli.com/index.xml,https://guangzhengli.com/en/index.xml"
