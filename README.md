@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **dotnet**
 
-- 👯 I’m looking to collaborate on [notification-actions](https://github.com/notification-actions/)
+- 👯 I’m looking to collaborate on [hugo-ladder](https://github.com/guangzhengli/hugo-theme-ladder)
 
-- 📝 I regularly write articles on [https://guangzhengli.com/](https://guangzhengli.com/)
+- 📝 I regularly write articles on [https://guangzhengli.com/](https://guangzhengli.com)
 
 - 📫 How to reach me **iguangzhengli@gmail.com**
 
