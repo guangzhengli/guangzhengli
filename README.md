@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [日志的艺术](https://guangzhengli.com/blog/zh/the-art-of-logging/)
 - [用 serverless 开发一个 Chat 机器人提醒](https://guangzhengli.com/blog/zh/webhook-with-serverless/)
 - [如何零成本给博客集成 umami 数据统计分析功能](https://guangzhengli.com/blog/zh/how-to-integrate-umami-for-free-to-blog-site/)
 - [How to integrate umami to your website for free](https://guangzhengli.com/en/blog/en/how-to-integrate-umami-for-free-to-blog-site/)
 - [如何 30 分钟搭建一套完整独立博客](https://guangzhengli.com/blog/zh/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
-- [How to create your blog by hugo ladder in 30min](https://guangzhengli.com/en/blog/en/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
