@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guangzhengli&label=Profile%20views&color=0e75b6&style=flat" alt="guangzhengli" /> </p>
 
-- 🔭 I’m currently working on [hugo-ladder](https://github.com/guangzhengli/hugo-theme-ladder)
+- 🔭 I’m currently working on [Chatfiles](https://github.com/guangzhengli/ChatFiles)
 
-- 🌱 I’m currently learning **dotnet**
+- 🌱 I’m currently learning **LLM**
 
-- 👯 I’m looking to collaborate on [hugo-ladder](https://github.com/guangzhengli/hugo-theme-ladder)
+- 👯 I’m looking to collaborate on [Chatfiles](https://github.com/guangzhengli/ChatFiles)
 
 - 📝 I regularly write articles on [https://guangzhengli.com/](https://guangzhengli.com)
 
