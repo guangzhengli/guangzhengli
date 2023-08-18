@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [GPT Embeddings 应用开发和思考](https://guangzhengli.com/blog/zh/gpt-embeddings/)
+- [GPT 应用开发和思考](https://guangzhengli.com/blog/zh/gpt-embeddings/)
 - [向量数据库](https://guangzhengli.com/blog/zh/vector-database/)
 - [把阅读作为方法](https://guangzhengli.com/blog/zh/reading/)
 - [日志的艺术](https://guangzhengli.com/blog/zh/the-art-of-logging/)
