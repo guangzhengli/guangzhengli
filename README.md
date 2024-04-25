@@ -17,11 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [独立开发技术栈 2024](https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024/)
-- [GPT 应用开发和思考](https://guangzhengli.com/blog/zh/gpt-embeddings/)
-- [向量数据库](https://guangzhengli.com/blog/zh/vector-database/)
-- [把阅读作为方法](https://guangzhengli.com/blog/zh/reading/)
-- [日志的艺术](https://guangzhengli.com/blog/zh/the-art-of-logging/)
+- [How to integrate umami to your website for free](https://guangzhengli.com/en/blog/en/how-to-integrate-umami-for-free-to-blog-site/)
+- [How to create your blog by hugo ladder in 30min](https://guangzhengli.com/en/blog/en/how-to-create-your-blog-for-free-by-hugo-ladder-in-30min/)
+- [How to create your blog for free in 10min](https://guangzhengli.com/en/blog/en/how-to-create-your-blog-for-free-in-10min/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
