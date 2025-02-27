@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol/)
+- [The Ultimate Guide to MCP](https://guangzhengli.com/blog/en/model-context-protocol/)
 - [独立开发技术栈 2025](https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024/)
 - [GPT 应用开发和思考](https://guangzhengli.com/blog/zh/gpt-embeddings/)
 - [向量数据库](https://guangzhengli.com/blog/zh/vector-database/)
-- [把阅读作为方法](https://guangzhengli.com/blog/zh/reading/)
-- [日志的艺术](https://guangzhengli.com/blog/zh/the-art-of-logging/)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
