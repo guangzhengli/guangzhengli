@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [独立开发穷鬼套餐&lpar;Web实践篇&rpar;](https://guangzhengli.com/blog/zh/indie-hacker-poor-stack)
+- [终极 Next.js 模板](https://guangzhengli.com/blog/zh/build-nextjs-template)
 - [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol)
 - [独立开发技术栈 2025](https://guangzhengli.com/blog/zh/indie-hacker-tech-stack-2024)
 - [GPT 应用开发和思考](https://guangzhengli.com/blog/zh/gpt-embeddings)
-- [向量数据库](https://guangzhengli.com/blog/zh/vector-database)
-- [我的阅读写作工具](https://guangzhengli.com/blog/zh/read-write-tools)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
